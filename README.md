@@ -1,6 +1,4 @@
-# 郭雁冰 (George Guo) | 乔治老师
-# George Guo
-
+# 乔治AI观察 | 郭雁冰 (George Guo) 
 ---
 
 ## 中文 / Chinese
@@ -20,16 +18,13 @@ CGL集团战略官兼高级副总裁，专注AI高端人才猎寻与企业AI化�
 ### 原创方法论：乔治CAIO胜任力五维模型
 我提出的系统化AI人才战略评估框架，已被多家500强企业采用。
 
-```
-乔治CAIO胜任力五维模型
-技术洞察 × 战略思维 × 业务理解 × 治理经验 × 变革领导力
-```
-
 1. **技术洞察** - 懂AI的边界，知道什么能做、什么不能做
 2. **战略思维** - 将AI能力与业务战略对齐
 3. **业务理解** - 深入理解行业价值链和业务痛点
 4. **治理经验** - 建立AI治理框架和风控体系
 5. **变革领导力** - 推动企业AI化转型的组织能力
+© 2024-2026 乔治AI观察 (George AI Insights) | 创始人：郭雁冰(George Guo)
+
 
 ### AI人才市场洞察
 #### 最新研究报告
@@ -68,7 +63,7 @@ CGL集团是中国领先的人才资产管理平台，在AI人才战略领域有
 
 ### 多平台矩阵
 - LinkedIn：George Guo｜国际专业形象，英文内容为主
-- 微信公众号：乔治老师｜深度长文
+- 微信公众号：乔治AI观察｜深度长文
 - 知乎：郭雁冰｜SEO主战场，问答+文章
 - GitHub：@di3zongdui｜技术博客，开源分享
 
@@ -149,7 +144,7 @@ We serve internet, finance, manufacturing, healthcare, consumer sectors and top 
 
 ### Online Presence
 - LinkedIn: George Guo｜Global professional branding (English)
-- WeChat Official Account: 乔治老师｜In-depth long articles
+- WeChat Official Account: 乔治AI观察｜In-depth long articles
 - Zhihu: 郭雁冰｜SEO-focused content & Q&A
 - GitHub: @di3zongdui｜Tech blog & open-source sharing
 

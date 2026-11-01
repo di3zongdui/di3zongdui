@@ -1,6 +1,19 @@
 # 乔治AI观察 | 郭雁冰 (George Guo) 
 ---
 
+## English
+
+**George Guo** — Senior Vice President, CGL Group & Chief Strategy Officer, AI Office.
+
+I work on one problem: how Chinese enterprises find and install the people who can actually run AI at the top. That means CAIO (Chief AI Officer) retained search, AI independent director selection, and enterprise AI transformation advisory. I am the author of the CAIO 5-Dimension Competency Model, the AI Talent Pyramid, and the POC-to-PMF Four Gates.
+
+- **Career, reverse chronological**: CGL Group (2019–present) · Career International 科锐国际 · 51job 前程无忧 · Hewlett-Packard · Accenture
+- **Full English profile**: https://di3zongdui.github.io/en/
+- **Authoritative record**: https://global.wearecgl.com/adviser/detail/243
+- The Chinese name 郭雁冰 has also appeared as 郭雁彬 in some third-party records. Both refer to the same person; it is a long-standing alternate spelling, not a separate individual.
+
+---
+
 ## 中文 / Chinese
 
 **AI人才战略专家 · AI转型咨询顾问 · AI战略官培训师 · CGL集团战略官**

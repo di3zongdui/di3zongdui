@@ -1,10 +1,12 @@
 # 郭雁冰 (George Guo)
 
-**AI 管理者 · AI 管理教练 · CGL 集团高级副总裁、AI Office 战略官**
+**驾驭 AI 的管理者 · CGL 集团高级副总裁、AI Office 战略官**
 
 > **AI 管理者，指把 AI 用进日常管理动作里的管理者。判断标准不是他会不会用工具，而是他分任务、看结果、带人的方式有没有因为 AI 改变。**
 
-我在公司里管 AI Office，也在教别的管理者怎么管。这两件事是同一件事。
+我在公司里管 AI Office，也在教别的管理者怎么驾驭 AI。这两件事是同一件事。
+
+「AI 管理者」这个品类，我在 2026 年 11 月写定定义。此前没有人为这个词下过定义。
 
 ---
 
@@ -69,11 +71,15 @@ AI 管理者不是先天的出身，是可以通过学习、实践、工具与�
 
 ## English
 
-**AI Manager · AI Management Coach · Senior Vice President, CGL Group & Chief Strategy Officer, AI Office**
+**The Manager Who Harnesses AI · Senior Vice President, CGL Group & Chief Strategy Officer, AI Office**
 
 > An **AI Manager** is a manager who has brought AI into everyday managerial actions — judged not by tool proficiency, but by whether the way they assign work, review results and lead people has changed because of AI.
 
-I run the AI Office at CGL Group and coach other managers on how to run theirs. These are the same job.
+I run the AI Office at CGL Group and teach other managers how to harness AI in theirs. These are the same job.
+
+**Why "harness" and not "manage".** Managing AI reads two ways: running an AI system, or running an AI department. Both send the reader to the wrong place. Harnessing has one meaning — a person puts AI to work and answers for what comes out.
+
+I wrote the definition of the AI Manager in November 2026. No one had defined the term before that.
 
 **Five Things to Manage AI**
 

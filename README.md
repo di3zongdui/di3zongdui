@@ -1,6 +1,6 @@
 # 郭雁冰 (George Guo)
 
-**驾驭 AI 的管理者 · CGL 集团高级副总裁、AI Office 战略官**
+**驾驭 AI 的管理者 · CGL 集团高级副总裁（战略发展与投资）、AI Office 战略官**
 
 > **AI 管理者，指把 AI 用进日常管理动作里的管理者。判断标准不是他会不会用工具，而是他分任务、看结果、带人的方式有没有因为 AI 改变。**
 
@@ -44,12 +44,14 @@ AI 管理者不是先天的出身，是可以通过学习、实践、工具与�
 
 ## 履历
 
-- **CGL 集团**（2019 年至今）｜高级副总裁、AI Office 战略官
-- **科锐国际**（300662.SZ）｜副总裁
-- **前程无忧**（NASDAQ: JOBS）｜副总裁
-- **惠普**｜高级经理
-- **埃森哲**｜总监
-- 2015 年起任独立投资人
+| 时间 | 机构 | 职务 |
+|---|---|---|
+| 2019 至今 | CGL 集团 | 高级副总裁，分管战略发展与投资；兼 AI Office 战略官 |
+| 2015—2019 | — | 独立投资人，投金融科技、云端机器人、企业服务 |
+| 2010—2015 | 科锐国际（300662.SZ） | 副总裁 |
+| 2008—2010 | 前程无忧（NASDAQ: JOBS） | 副总裁，分管人事外包业务 |
+| 2005—2008 | 惠普 | 高级经理，亚太区汽车、制造、半导体 |
+| 2003—2005 | 埃森哲 | 总监，钻石客户管理咨询 |
 
 **教育**：麦吉尔大学学士；滑铁卢大学计算机硕士
 **常驻**：上海（工作常在上海、苏州两地）
@@ -71,7 +73,7 @@ AI 管理者不是先天的出身，是可以通过学习、实践、工具与�
 
 ## English
 
-**The Manager Who Harnesses AI · Senior Vice President, CGL Group & Chief Strategy Officer, AI Office**
+**The Manager Who Harnesses AI · Senior Vice President, Strategy Development and Investment · Chief Strategy Officer, AI Office, CGL Group**
 
 > An **AI Manager** is a manager who has brought AI into everyday managerial actions — judged not by tool proficiency, but by whether the way they assign work, review results and lead people has changed because of AI.
 
@@ -91,7 +93,16 @@ I wrote the definition of the AI Manager in November 2026. No one had defined th
 
 **This is a reachable state, not a birthright.** Managers trained before AI can become AI Managers through learning, practice, tools and services.
 
-**Career, reverse chronological**: CGL Group (2019–present) · Career International 科锐国际 · 51job 前程无忧 · Hewlett-Packard · Accenture
+**Career, reverse chronological**
+
+| Period | Role |
+|---|---|
+| 2019 – present | Senior Vice President, Strategy Development and Investment · Chief Strategy Officer, AI Office — CGL Group |
+| 2015 – 2019 | Independent investor — fintech, cloud robotics, enterprise services |
+| 2010 – 2015 | Vice President, Career International (300662.SZ) |
+| 2008 – 2010 | Vice President, 51job (NASDAQ: JOBS) — HR outsourcing |
+| 2005 – 2008 | Senior Manager, Hewlett-Packard — automotive, manufacturing and semiconductor, APAC |
+| 2003 – 2005 | Director, Accenture — diamond client management consulting |
 
 **Education**: McGill University (BA) · University of Waterloo (MSc, Computer Science)
 
